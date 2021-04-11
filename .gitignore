@@ -1,0 +1,8 @@
+# OS + Vscode
+.DS_Store
+.vscode
+
+# Node
+node_modules
+build
+dist
